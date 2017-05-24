@@ -259,7 +259,7 @@ struct tcp_md5sig
 /****************************************************/
 /*                  TLS NEW STUFF                   */
 /****************************************************/
-#define TCP_ULP                 30
+#define TCP_ULP                 31
 
 #define SOL_TLS                 282
 #define TLS_TX                  1
